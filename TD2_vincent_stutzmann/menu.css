@@ -1,0 +1,47 @@
+h1 {
+	border-style: ridge; border-color: #F08080; border-width: 3pt; width: 15%;
+	font-family: Arial; font-size: 16pt; text-align: center; color: rgb(128,0,0); font-weight: bold;
+	padding: 3pt; margin: auto;
+	text-align: center;
+}
+
+p {
+	font-weight: bold; text-align: center;
+}
+
+h2 {
+	font-family: Verdana; font-size: 14pt; color: rgb(128,0,0); text-decoration: underline; text-align: center;
+}
+
+ul {
+	list-style-type: none; padding: 3pt 3pt 3pt 3pt; text-align: center; font-weight: bold;
+}
+
+hr {
+	width: 4in; height: 4pt; color: #F08080
+}
+
+.haut_page {
+	background-color: #FFDAB9; padding: 10pt;
+	margin: 10pt
+}
+
+.colonne1{
+	float: left; background-color: #DEB887; width: 33%;
+	padding-bottom: 20pt;
+}
+
+.colonne2{
+	float: left; background-color: #FFFFA0; width: 34%;
+	padding-bottom: 20pt;
+}
+
+.colonne3{
+	float: right; background-color: #CDA0A0; width: 33%;
+	padding-bottom: 20pt;
+}
+
+hr {
+	margin-top: 170pt;
+	clear:left;
+}

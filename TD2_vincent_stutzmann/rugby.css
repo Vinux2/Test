@@ -1,0 +1,35 @@
+h1 {
+	border-style: ridge; border-color: rgb(240,0,128); border-width: 5pt;
+	color: blue; text-align: center;
+	padding: 2pt;
+	width: 33%; margin-left: auto; margin-right: auto;
+	margin-bottom: 30pt;
+}
+
+p {
+	font-weight: bold; color: rgb(240,0,128); text-indent: 30pt;
+}
+
+select {
+	font-style: italic; font-weight: bold; color: blue;
+	background-color: aqua;
+}
+
+.haut {
+	background-color: aqua;
+	padding: 20pt;
+	margin-bottom: -6pt;
+}
+
+.milieu {
+	margin-top: -6pt;
+	background-color: lime;
+	padding: 20pt;
+	margin-bottom: -6pt;
+}
+
+.bas {
+	margin-top: -6pt;
+	background-color: rgb(0,191,255);
+	padding: 20pt;
+}
